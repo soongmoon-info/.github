@@ -1,5 +1,7 @@
 ![상단베너](https://github.com/soongmoon-info/.github/blob/main/source/img/img1.png)
+
 ## Hi there 👋
+
 해당 깃허브는 숭문고등학교 1학년 정보 교육과정을 위해 생성되었습니다.
 
 [수업 준비 하기](https://glaze-cast-2d8.notion.site/2-1d112059343147608e0bc5c8f207ac2e)
